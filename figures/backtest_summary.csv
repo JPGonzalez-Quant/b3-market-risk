@@ -1,0 +1,7 @@
+,Dias,Exceções,Esperado,Taxa (%),Kupiec p-valor,Christoffersen p-valor,Exceções (últ. 250d),Basileia
+Histórico,3400,52,34.0,1.53,0.004,0.001,4,Verde
+Paramétrico,3400,53,34.0,1.56,0.002,0.0,5,Amarela
+Cornish-Fisher,3400,42,34.0,1.24,0.184,0.111,3,Verde
+"EWMA (λ=0,94)",3400,49,34.0,1.44,0.015,0.738,3,Verde
+Monte Carlo,3400,54,34.0,1.59,0.001,0.0,6,Amarela
+Hist. Filtrada (FHS),3400,42,34.0,1.24,0.184,0.548,2,Verde

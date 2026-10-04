@@ -1,0 +1,9 @@
+[project]
+name = "marketrisk"
+version = "0.1.0"
+description = "VaR, CVaR e backtesting para uma carteira de ações da B3"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
