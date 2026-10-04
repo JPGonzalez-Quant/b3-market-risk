@@ -97,4 +97,4 @@ PETR4, VALE3, ITUB4, BBDC4, BBAS3, ABEV3, WEGE3, B3SA3, RENT3 e LREN3, com 10% e
 
 ---
 
-**Autor:** João Pedro Gonzalez · Físico (UNICAMP) · [LinkedIn](https://www.linkedin.com/in/joaopedrogonzalez)
+**Autor:** João Pedro Gonzalez · Físico (UNICAMP) · [LinkedIn](www.linkedin.com/in/jpgonzalez-quant)
